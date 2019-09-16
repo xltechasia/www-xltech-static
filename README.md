@@ -1,2 +1,2 @@
-# www-xltech-static
-Source for xltechasia.github.io static webpages built using hugo
+# xltechasia.github.io
+XLTech Solutions Pte Ltd Hugo Static Website
