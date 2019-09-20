@@ -10,9 +10,6 @@ publishDir = "public"
 buildDrafts = false
 canonifyURLs = true
 languageCode = "en"
-
-# Title of your site
-#title = "Academic"
 title = "XLTech Solutions"
 
 # The URL of your site.
@@ -34,7 +31,7 @@ googleAnalytics = ""
 theme = "academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -77,3 +74,15 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+############################
+## Permalinks details
+##
+## Override URL defaults from Academic to Business-Like terms
+############################
+
+[permalinks]
+    post = "/articles/:slug"
+    project = "/solutions/:slug"
+    publication = "/kb/:slug"
+

@@ -5,14 +5,15 @@ name = "xlt-dark"
 light = false
 
 # Primary
-primary = "hsl(339, 90%, 68%)"
+primary = "rgb(0, 136, 204)"
 
 # Menu
-menu_primary = "rgb(20, 22, 34)"
-menu_text = "rgba(255,255,255,0.6)"
+menu_primary = "rgb(33, 37, 41)"
+menu_text = "rgb(0, 136, 204)"
 menu_text_active = "rgba(255,255,255,1)"
-menu_title = "#fff"
+menu_title = "rgb(153, 153, 153)"
 
 # Home sections
-home_section_odd = "hsla(231, 15%, 18%, 1)"
-home_section_even = "hsla(231, 15%, 16%, 1)"
+background = "rgb(12, 12, 12)"
+home_section_odd = "rgb(12, 12, 12)"
+home_section_even = "rgb(29, 33, 39)"
