@@ -6,14 +6,14 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = ""
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  # columns = 1
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -30,7 +30,7 @@ subtitle = ""
   
   # Background image.
   image = "headers/XLTech-Cover-Google+_2249x1268.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.65  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -47,4 +47,6 @@ subtitle = ""
  css_class = ""
 +++
 
-# Knowledgebase
+# **XLTech Solutions**
+## Strategy. Execution. Results.
+

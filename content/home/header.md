@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = ""
@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/XLTech-Cover-Google+_2249x1268.jpg"  # Name of image in `static/img/`.
+  image = "background.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -37,7 +37,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["10px", "0", "10px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -46,7 +46,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
 # **XLTech Solutions**
 ## Strategy. Execution. Results.
 
