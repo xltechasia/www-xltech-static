@@ -1,14 +1,12 @@
 ---
-type: project
-
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "RPI3B PremiumKit"
+title: "{{ replace .Name "-" " " | title }}"
 summary: ""
 authors: []
-tags: [ "Solution", "Product" ]
-categories: [ "Solution", "Product" ]
-date: 2019-01-01T00:00:01+08:00
+tags: []
+categories: []
+date: {{ .Date }}
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,8 +38,4 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-# {{< gallery >}}
 ---
-blah blah blah
-
-more blah

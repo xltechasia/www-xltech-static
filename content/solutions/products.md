@@ -39,9 +39,9 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = "product"
-    publication_type = ""
+    tag = "Product"
+    # category = ""
+    # publication_type = ""
     exclude_featured = false
   
   [design]

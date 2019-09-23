@@ -1,4 +1,6 @@
 ---
+type: project
+
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "RPI KIT CAN PI3 DUMMIES 1 INT"

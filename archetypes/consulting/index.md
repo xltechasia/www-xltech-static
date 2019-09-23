@@ -1,13 +1,12 @@
 ---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 type: project
 
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "RPI3B PremiumKit"
+title: "{{ replace .Name "-" " " | title }}"
 summary: ""
 authors: []
-tags: [ "Solution", "Product" ]
-categories: [ "Solution", "Product" ]
+tags: [ "Solution", "Consulting" ]
+categories: [ "Solution", "Consulting" ]
 date: 2019-01-01T00:00:01+08:00
 
 # Optional external URL for project (replaces project detail page).
@@ -42,6 +41,3 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
-blah blah blah
-
-more blah

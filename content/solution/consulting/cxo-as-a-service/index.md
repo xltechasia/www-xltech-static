@@ -1,4 +1,6 @@
 ---
+type: project
+
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "CXO-as-a-Service"

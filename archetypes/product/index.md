@@ -1,9 +1,8 @@
 ---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 type: project
 
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "RPI3B PremiumKit"
+title: "{{ replace .Name "-" " " | title }}"
 summary: ""
 authors: []
 tags: [ "Solution", "Product" ]
@@ -42,6 +41,3 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
-blah blah blah
-
-more blah
