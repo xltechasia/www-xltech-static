@@ -57,8 +57,8 @@ In today’s business world we are bombarded with new catch-phrases describing e
 
 We work with you to realise the value in the business *now*, while exploring the opportunities new methodologies and technologies represent.
 
-We work with you to build a stronger business thaat delivers long-term sustainable results by embeddeding adaptive capabilities into the DNA of your business.
+We work with you to build a stronger business that delivers long-term sustainable results by embeddeding adaptive capabilities into the DNA of your business.
 
-Through understanding your business, we can help you to optimise business’ *Strategy and Mission; Business Architecture and Organisational Design; and Processes.*
+Through understanding your business, we can help you to optimise business *Strategy and Mission; Business Architecture and Organisational Design; and Processes.*
 
 #### Now you can attract and retain the right talent and achieve operational excellence

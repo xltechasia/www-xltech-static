@@ -3,9 +3,10 @@ type: project
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CXO-as-a-Service"
-summary: "Need a temporary, intrim or consulting CIO or CTO - We can help"
+title: "CIO-on-Call"
+summary: "For organisations needing help with strategy, operations, budgets or planning on a short-term or long-term basis."
 authors: []
+featured: true
 tags: [ "Solution", "Consulting" ]
 categories: [ "Solution", "Consulting" ]
 date: 2019-01-01T00:00:01+08:00
@@ -42,11 +43,6 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
-As your CIOaaS, XLTech provides senior management engagement on IT effectiveness, costs and strategic alignment, without the overhead from hiring a senior manager in a critical but non-core role.
+As your CIO-on-Call, XLTech provides senior management engagement on IT effectiveness, costs and strategic alignment, without the overhead from hiring a senior manager in a critical but non-core role.
 
-We work your staff to ensure IT skills, planning and delivery are thinking long-term and sustainability, and not floundering on fundamentals that distract value creation.
-
-CTOaaS is designed for start-ups and business projects that require a CTO during the formative design and development stages of technical solutions.
-
-As your CTOaaS, XLTech can help you define, resolve and document your project’s architecture, design principles, integration solutions, interface specifications, API, technology stacks, data models and solution selection.
-
+We work with your staff to ensure IT skills, planning and delivery are thinking long-term and sustainability, and not floundering on fundamentals that distract value creation.
