@@ -6,9 +6,11 @@ type: project
 title: "Rpi3b"
 summary: ""
 authors: []
+featured: false
 tags: [ "Solution", "Product" ]
 categories: [ "Solution", "Product" ]
 date: 2019-01-01T00:00:01+08:00
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

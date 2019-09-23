@@ -1,9 +1,10 @@
 ---
 type: project
 
-title: Project Initiation
+title: Project Foundations
 summary: When you need to start your projects heading towards success
 authors: []
+featured: false
 tags: [ "Solution", "Consulting" ]
 categories: [ "Solution", "Consulting" ]
 date: 2019-01-01T00:00:01+08:00

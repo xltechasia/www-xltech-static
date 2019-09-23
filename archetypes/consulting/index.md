@@ -5,6 +5,7 @@ type: project
 title: "{{ replace .Name "-" " " | title }}"
 summary: ""
 authors: []
+featured: false
 tags: [ "Solution", "Consulting" ]
 categories: [ "Solution", "Consulting" ]
 date: 2019-01-01T00:00:01+08:00

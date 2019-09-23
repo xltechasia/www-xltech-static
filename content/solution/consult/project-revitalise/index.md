@@ -1,9 +1,10 @@
 ---
 type: project
 
-title: Project Audit & Recovery
-summary: When you need help getting a project back on track
+title: Project Revitalise
+summary: Having problems with projects not deliverying? Bogged down in tech instead of business results? We can help
 authors: []
+featured: false
 tags: [ "Solution", "Consulting" ]
 categories: [ "Solution", "Consulting" ]
 date: 2019-01-01T00:00:01+08:00
