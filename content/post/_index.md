@@ -1,5 +1,7 @@
 ---
 title: Posts
+type: post
+category: blog
 
 # View.
 #   1 = List

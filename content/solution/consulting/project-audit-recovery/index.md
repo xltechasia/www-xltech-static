@@ -3,8 +3,11 @@ page_type: project
 
 title: Project Audit & Recovery
 summary: When you need help getting a project back on track
-tags: ["Consulting", "Short-Term", "As-Required", "Projects"]
-date: "2019-01-01T00:00:00Z"
+authors: []
+tags: [ "Solution", "Consulting" ]
+categories: [ "Solution", "Consulting" ]
+date: 2019-01-01T00:00:01+08:00
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,5 +32,6 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+# {{< gallery >}}
 ---
 This is designed for inflight projects and programs where independent review or audits are required. This can be limited to observation recommendations, or can be extended to cover re-alignment and delivery of the changes necessary to course correct the initiative.

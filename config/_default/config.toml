@@ -82,7 +82,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 ############################
 
 [permalinks]
-    post = "/articles/:slug"
-    project = "/solutions/:slug"
-    publication = "/kb/:slug"
+#    post = "/articles/:slug"
+#    project = "/solutions/:slug"
+#    publication = "/kb/:slug"
 

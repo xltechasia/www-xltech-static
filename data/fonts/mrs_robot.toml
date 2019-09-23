@@ -1,0 +1,20 @@
+# Font style metadata
+name = "Mrs Robot"
+
+# Optional Google font URL
+google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
+
+# Optional Google font URL
+# google_fonts = "B612+Mono:400,700|Orbitron:400,700"
+
+# Font families
+# heading_font = "Orbitron"
+# body_font = "B612 Mono"
+# nav_font = "B612 Mono"
+# mono_font = "B612 Mono"

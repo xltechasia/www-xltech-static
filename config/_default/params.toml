@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "apogee"
+theme = "mrs_robot"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -159,7 +159,7 @@ gravatar = false
 menu_align_right = true
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -182,7 +182,7 @@ plugins_js  = []
   date_format = "2006-01-02"
 
   # Citation style ("apa" or "mla")
-  citation_style = "mla"
+  citation_style = "apa"
 
 # Configuration of project pages.
 [projects]

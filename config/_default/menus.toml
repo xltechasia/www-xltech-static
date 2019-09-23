@@ -4,9 +4,34 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  identifier = "solutions"
   name = "Solutions"
-  url = "/solution"
+  url = "/solutions"
   weight = 10
+  
+[[main]]
+  name = "Overview"
+  parent = "solutions"
+  url = "/solutions"
+  weight = 1
+
+[[main]]
+  name = "Consulting"
+  parent = "solutions"
+  url = "/consult"
+  weight = 10
+
+[[main]]
+  name = "Services"
+  parent = "solutions"
+  url = "/service"
+  weight = 20
+
+[[main]]
+  parent = "solutions"
+  name = "Products"
+  url = "/product"
+  weight = 30
 
 [[main]]
   name = "Posts"
@@ -14,8 +39,8 @@
   weight = 20
 
 [[main]]
-  name = "Resources"
-  url = "/kb"
+  name = "Knowledgebase"
+  url = "/docs"
   weight = 30
 
 [[main]]
