@@ -24,6 +24,9 @@ font = ""
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "M"
 
+# Disable Author's on pages
+profile = false
+
 ############################
 ## Basic Info
 ############################
@@ -49,7 +52,7 @@ description = "Infotech Consulting and Services"
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 #logo = "favicon/ms-icon-310x310.png"
-logo = "logo/XLTech-Logo-3450x3450-Clr-Transparent-Square.png"
+logo = "logo.png"
 
 ############################
 ## Site Features
@@ -84,6 +87,17 @@ edit_page = {repo_url = "https://github.com/xltechasia/www-xltech-static", repo_
 ## These details power the Contact widget (if enabled).
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
+contact_title = "Contact"
+contact_subtitle = ""
+
+# Automatically link email and phone?
+contact_autolink = true
+
+# Email form provider
+#   0: Disable email form
+#   1: Netlify (requires that the site is hosted by Netlify)
+#   2: formspree.io
+contact_email_form = 2
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "info@xltech.io"
@@ -126,7 +140,7 @@ contact_links = [
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 #sharing_image = "favicon/ms-icon-310x310.png"
-sharing_image = "logo/XLTech-Logo-0640x0640-Clr-Transparent-Square-Margin.png"
+sharing_image = "logo-640.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "xltechasia"
@@ -162,7 +176,7 @@ menu_align_right = true
 reading_time = false
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
