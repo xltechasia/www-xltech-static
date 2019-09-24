@@ -1,0 +1,133 @@
+Digital Ocean - https://m.do.co/c/5df89edb2d36
+My Republic - https://secure.myrepublic.com.sg/order_mpp/1002427
+NameCheap - https://www.namecheap.com/?aff=105442
+UsenetServer - http://www.usenetserver.com/?a_aid=xltech&a_bid=5725b6ed
+
+================
+About;
+XLTech is focused on quality computer systems and solutions based around GNU/Linux, BSD and Open Source while supporting the people and organisations that actively contribute and promote Open Source projects and initiatives through resources, funding and man-power.
+
+Learn more about what open source is and how XLTech is supporting open source
+
+Our product range includes;
+
+Single Purpose Servers (SPS) / Micro-Servers
+A range of low cost packaged hardware and software pre-configured for dedicated activities
+Single Board Computers (SBC)
+Focused on leveraging the wildly successful Raspberry Pi to offer SPS and SFF solutions
+Small Form Factor (SFF) Computers
+Perfect GNU/Linux based solutions that minimise desk space to meet your everyday computing, HTPC / Media Streaming or Dedicated Server needs
+Desktop and Portable Computers
+From daily workhorses, dedicated gaming rigs to a tinker's delight - we have packages and customisation options that have you covered
+Network-Attached Storage (NAS)
+Whether you want to share 1TB or 80TB+ of storage, we have a range of NAS solutions based on GNU/Linux and BSD to meet your storage and performance needs
+Multiple form factors, storage capacities and processing capacities to match your budget and needs
+Servers
+From small form-factor/high-density to Complete rack we custom build each solution to your needs.
+
+All our systems are built, and parts and options selected, with GNU/Linux and BSD compatibility and support a requirement. To ensure compatibility, quality and reliability we personally build, configure and test every system that goes out the door to ensure it deserves the XLTech badge of excellence.
+
+Want to learn more about XLTech? Questions? Please feel free to contact us using the form below.
+
+You can also reach us through Facebook, Facebook Messenger, Twitter or GitHub
+=====================
+XLTech Supporting Open Source
+XLTech aims to leverage and support open source solutions everyday.
+
+Below are some of the ongoing means of support we currently undertake;
+
+Through Patreon we contribute monthly to;
+Ubuntu MATE Development and Community
+Jupiter Broadcasting
+LinuxTracker.org Bit Torrent Seed for all images posted via their RSS feed
+Currently 700GB+ and growing daily – shared via 1GBps link
+More coming soon.
+
+====================
+Old-Old Frontpage
+
+Welcome to XLTech
+
+XLTech is about supporting Open Source initiatives
+
+We fund our support through the sale of GNU/Linux and BSD optimised systems, solutions and services
+
+Looking for something specific?
+
+From Appliance and SBC platforms to High-Performance Computing Solutions - we can help
+
+Have a system build or solution you need but no one else can help?
+Don't hesitate to use the contact form below to drop us a note about what you need
+and let us help you, and you can help support open source!
+
+Have a Question?
+
+Special Requests, Configurations and Questions on How or Why Linux or BSD May be the best Choice for You Are Welcome...
+
+================
+Project Audit & Recovery
+
+This is designed for inflight projects and programs where independent review or audits are required. This can be limited to observation recommendations, or can be extended to cover re-alignment and delivery of the changes necessary to course correct the initiative. 
+================
+Project Initiation
+
+We can help you establish new project and programs from proposals, central office establishment, RFP/RFQ, planning and skilling needs.
+
+Clients new to technology projects, have had mixed results previously or prefer to ensure expertise review prior to engaging a large contracting firm, we help ensure your interests are prioritised.
+
+================
+CIO-as-a-Service
+
+As your CIOaaS, XLTech provides senior management engagement on IT effectiveness, costs and strategic alignment, without the overhead from hiring a senior manager in a critical but non-core role.
+
+We work your staff to ensure IT skills, planning and delivery are thinking long-term and sustainability, and not floundering on fundamentals that distract value creation.
+
+================
+CTO-as-a-Service
+
+CTOaaS is designed for start-ups and business projects that require a CTO during the formative design and development stages of technical solutions.
+
+As your CTOaaS, XLTech can help you define, resolve and document your project's architecture, design principles, integration solutions, interface specifications, API, technology stacks, data models and solution selection.
+
+================
+What is Open Source?
+
+<p>Open Source refers to something people can modify and share because it's design is publicly accessible.</p>
+<p>The term "open source" was originally used in relation to a specific software development approach. Now "open source" represents a broader set of values - referred to as the "<a href="https://opensource.com/open-source-way">the open source way</a>." Open source projects, products, or initiatives embrace and celebrate principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development.</p>
+<h2>What is open source software?</h2>
+<p>Open source software means the source code is available for anyone to inspect, modify, and enhance.</p>
+<p>"Source code" is the part of software that most computer users don't ever see; it's the code computer programmers can manipulate to change how a piece of software (a "program" or "application") works. Programmers who have access to a computer program's source code can improve that program by adding features to it or fixing parts that don't always work correctly.</p>
+<h2>What's the difference between open source software and other types of software?</h2>
+<p>"Proprietary," or "closed source," software has source code that only the person, team, or organisation who created it can view, modify, fix or audit the code - they maintain exclusive control over it.</p>
+<p>Only the original authors of proprietary software can legally copy, inspect, and alter that software. In order to use proprietary software, computer users must agree (usually by signing a license displayed the first time the software is run) that they will not do anything with the software that the software's authors have not expressly permitted. Microsoft Office and Adobe Photoshop are examples of proprietary software.</p>
+<p>Open source software is different. Its authors <a href="https://opensource.com/business/13/5/open-source-your-code">make its source code available</a> to others who would like to view that code, copy it, learn from it, alter it, or share it. <a href="https://www.libreoffice.org/" target="_blank" rel="noopener noreferrer">LibreOffice</a> and the <a href="http://www.gimp.org/" target="_blank" rel="noopener noreferrer">GNU Image Manipulation Program (GIMP)</a> are examples of open source software.</p>
+<p>As they do with proprietary software, users must accept the terms of a <a href="https://opensource.com/law/13/1/which-open-source-software-license-should-i-use">license</a> when they use open source software - but the legal terms of open source licenses differ dramatically from those of proprietary licenses.</p>
+<p>Open source licenses affect the way people can <a href="https://opensource.com/law/10/10/license-compliance-not-problem-open-source-users">use, study, modify, and distribute</a> software. In general, open source licenses grant computer users <a href="https://opensource.org/docs/osd" target="_blank" rel="noopener noreferrer">permission to use open source software for any purpose they wish</a>. Some open source licenses - what some people call "copyleft" licenses - stipulate that anyone who releases a modified open source program must also release the source code for that program alongside it. Moreover, <a href="https://opensource.com/law/13/5/does-your-code-need-license">some open source licenses</a> stipulate that anyone who alters and shares a program with others must also share that program's source code without charging a licensing fee for it.</p>
+<p>By design, open source software licenses promote collaboration and sharing because they permit other people to make modifications to source code and incorporate those changes into their own projects. They encourage computer programmers to access, view, and modify open source software whenever they like, as long as they let others do the same when they share their work.</p>
+<h2>Is open source software only important to computer programmers?</h2>
+<p>No. Open source technology and open source thinking both benefit programmers and non-programmers.</p>
+<p>Because early inventors built much of the Internet itself on open source technologies - like <a href="https://opensource.com/resources/what-is-linux">the Linux operating system</a> and the <a href="http://httpd.apache.org/" target="_blank" rel="noopener noreferrer">Apache Web server application </a>- anyone using the Internet today benefits from open source software.</p>
+<p>Every time computer users view web pages, check email, chat with friends, stream music online, or play multiplayer video games, their computers, mobile phones, or gaming consoles connect to a global network of computers using open source software to route and transmit their data to the "local" devices they have in front of them. The computers that do all this important work are typically located in faraway places that users don't actually see or can't physically access - which is why some people call these computers "remote computers."</p>
+<p>More and more, people rely on remote computers when performing tasks they might otherwise perform on their local devices. For example, they may use online word processing, email management, and image editing software that they don't install and run on their personal computers. Instead, they simply access these programs on remote computers by using a Web browser or mobile phone application. When they do this, they're engaged in "remote computing."</p>
+<p>Some people call remote computing "cloud computing," because it involves activities (like storing files, sharing photos, or watching videos) that incorporate not only local devices but also a global network of remote computers that form an "atmosphere" around them.</p>
+<p>Cloud computing is an increasingly important aspect of everyday life with Internet-connected devices. Some cloud computing applications, like Google Apps, are proprietary. Others, like <a href="https://owncloud.org/" target="_blank" rel="noopener noreferrer">ownCloud</a> and <a href="https://nextcloud.com/" target="_blank" rel="noopener noreferrer">Nextcloud</a>, are open source.</p>
+<p>Cloud computing applications run "on top" of additional software that helps them operate smoothly and efficiently, so people will often say that software running "underneath" cloud computing applications acts as a "<a href="https://opensource.com/life/14/4/why-open-infrastructure-matters">platform</a>" for those applications. Cloud computing platforms can be open source or closed source. <a href="https://opensource.com/resources/what-is-openstack">OpenStack</a> is an example of an open source cloud computing platform.</p>
+<h2>Why do people prefer using open source software?</h2>
+<p>People prefer open source software to proprietary software for a number of reasons, including:</p>
+<p><b>Control.</b> Many people prefer open source software because they <a href="https://opensource.com/life/13/5/tumblr-open-publishing">have more control</a> over that kind of software. They can examine the code to make sure it's not doing anything they don't want it to do, and they can change parts of it they don't like. Users who aren't programmers also benefit from open source software, because they can use this software for any purpose they wish - not merely the way someone else thinks they should.</p>
+<p><b>Training.</b> Other people like open source software because it helps them <a href="https://opensource.com/life/13/6/learning-program-open-source-way">become better programmers</a>. Because open source code is publicly accessible, students can easily study it as they learn to make better software. Students can also share their work with others, inviting comment and critique, as they develop their skills. When people discover mistakes in programs' source code, they can share those mistakes with others to help them avoid making those same mistakes themselves.</p>
+<p><b>Security.</b> Some people prefer open source software because they consider it more <a href="https://opensource.com/government/10/9/scap-computer-security-rest-us">secure</a> and stable than proprietary software. Because anyone can view and modify open source software, someone might spot and correct errors or omissions that a program's original authors might have missed. And because so many programmers can work on a piece of open source software without asking for permission from original authors, they can fix, update, and upgrade open source software more <a href="https://opensource.com/government/13/2/bug-fix-day">quickly</a> than they can proprietary software.</p>
+<p><b>Stability.</b> Many users prefer open source software to proprietary software for important, long-term projects. Because programmers <a href="https://opensource.com/life/12/9/should-we-develop-open-source-openly">publicly distribute</a> the source code for open source software, users relying on that software for critical tasks can be sure their tools won't disappear or fall into disrepair if their original creators stop working on them. Additionally, open source software tends to both incorporate and operate according to open standards.</p>
+<h2>Doesn't "open source" just mean something is free of charge?</h2>
+<p>No. This is a <a href="https://opensource.com/education/12/7/clearing-open-source-misconceptions">common misconception</a> about what "open source" implies, and the concept's implications are <a href="https://opensource.com/open-organization/16/5/appreciating-full-power-open">not only economic</a>.</p>
+<p>Open source software programmers can charge money for the open source software they create or to which they contribute. But in some cases, because an open source license might require them to release their source code when they sell software to others, some programmers find that charging users money for <em>software services and support</em> (rather than for the software itself) is more lucrative. This way, their software remains free of charge, and they <a href="https://opensource.com/business/14/7/making-your-product-free-and-open-source-crazy-talk">make money helping others</a> install, use, and troubleshoot it.</p>
+<p>While some open source software may be free of charge, skill in programming and troubleshooting open source software can be <a href="https://opensource.com/business/16/2/add-open-source-to-your-resume">quite valuable</a>. Many employers specifically seek to <a href="https://opensource.com/business/16/5/2016-open-source-jobs-report">hire programmers with experience</a> working on open source software.</p>
+<h2>What is open source "beyond software"?</h2>
+<p>At XLTech, we like to say that we're interested in the ways open source values and principles apply to the world <em>beyond software</em>. We like to think of open source as not only a way to develop and license computer software, but also an <em>attitude</em>.</p>
+<p>Approaching all aspects of life "<a href="https://opensource.com/open-source-way" target="_blank" rel="noopener noreferrer">the open source way</a>" means expressing a willingness to share, collaborating with others in ways that are transparent (so that others can watch and join too), embracing failure as a means of improving, and expecting - even encouraging - everyone else to do the same.</p>
+<p>It also means committing to playing an active role in improving the world, which is possible only when <a href="https://opensource.com/resources/what-open-access" target="_blank" rel="noopener noreferrer">everyone has access</a> to the way that world is designed.</p>
+<p>The world is full of "source code" - <a href="https://opensource.com/life/11/6/architecture-open-source-applications-learn-those-you">blueprints</a>, <a href="https://opensource.com/life/12/6/open-source-like-sharing-recipe">recipes</a>, <a href="https://opensource.com/life/12/4/day-my-mind-became-open-sourced">rules</a> - that guide and shape the way we think and act in it. We believe this underlying code (whatever its form) should be open, accessible, and shared - so many people can have a hand in altering it for the better.</p>
+<p>At XLTech we love stories about the impact of open source values on all areas of life - <a href="https://opensource.com/resources/open-science" target="_blank" rel="noopener noreferrer">science</a>, <a href="https://opensource.com/resources/what-open-education" target="_blank" rel="noopener noreferrer">education</a>,<a href="https://opensource.com/resources/open-government" target="_blank" rel="noopener noreferrer">government</a>, <a href="https://opensource.com/resources/what-open-hardware" target="_blank" rel="noopener noreferrer">manufacturing</a>, health, law, and <a href="https://opensource.com/resources/what-open-organization" target="_blank" rel="noopener noreferrer">organisational dynamics</a>. We want to encourage community knowledge and understanding of the the open source way, because we believe it is the <em>best</em> way, because a love of open source is just like anything else: it's better when it's shared.</p>
+<h2>Where can I learn more about open source?</h2>
+<p>Opensource.com have compiled several resources designed to help you learn more about open source. We recommend you read their <a href="https://opensource.com/resources" target="_blank" rel="noopener noreferrer">open source FAQs, how-to guides, and tutorials</a> to get started.</p>
+<p>---<br />Adapted from the original <a href="https://opensource.com/">opensource.com</a> article "<a href="https://opensource.com/resources/what-open-source">What is open source?</a>"</p>
