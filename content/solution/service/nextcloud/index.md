@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 type: project
 
-title: "Test Service"
+title: "Nextcloud Hosting"
 summary: ""
 authors: []
 tags: [ "Solution", "Service" ]
@@ -41,3 +41,12 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
+Private cloud storage for files.
+
+Supported across Windows, Mac OS, Linux, Android and iOS - and any web browser to access your files. Unlimited number of users.
+
+Starting with 100GB of storage.
+
+Extendable with pluigin for chat, web voice and video conferencing, calendering and contact/address books.
+
+More information coming soon...

@@ -4,8 +4,9 @@ type: project
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Host-in-a-Box"
-summary: ""
+summary: "You all-in-one email, website and cloud storage solution with straight forward monthly plans."
 authors: []
+featured: true
 tags: [ "Solution", "Service" ]
 categories: [ "Solution", "Service" ]
 date: 2019-01-01T00:00:01+08:00
@@ -42,7 +43,9 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
-blah blah blah
+Your own Domain, unlimited users/email accounts (and aliases), cloud storage, website hosting, address book, and calendaring.
 
-more blah
+Starting with 100GB of storage. 
+
+More information coming soon...
 
