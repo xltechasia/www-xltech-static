@@ -21,7 +21,7 @@ baseurl = "/"
 copyright = "&copy;&nbsp;&nbsp;{year}&nbsp;&nbsp;XLTech Solutions Pte Ltd"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-110201743-1"
 
 ############################
 ## Advanced options below ##
@@ -31,7 +31,7 @@ googleAnalytics = ""
 theme = "academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = true
+enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"

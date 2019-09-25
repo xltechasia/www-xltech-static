@@ -3,7 +3,7 @@
 type: project
 
 title: "Nextcloud Hosting"
-summary: ""
+summary: "Cloud storage for you and your team"
 authors: []
 tags: [ "Solution", "Service" ]
 categories: [ "Solution", "Service" ]
