@@ -2,6 +2,8 @@
 {{ $autolink := default true $data.Params.contact_autolink }}
 
 <!-- Contact Form -->
+<section id="contact"> 
+
 <div class="row contact-form">
   <div class="col-12 col-lg-4 section-heading">
     <h2>{{ with $data.contact_title }}{{ . | markdownify }}{{ end }}</h2>

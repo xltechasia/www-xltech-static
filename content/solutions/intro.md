@@ -46,7 +46,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Oue mission is to make the best-in-class technology, methods and management thinking is available for all businesses wanting to acheive optimal results with their investments.
+Our mission is to make the best-in-class technology, methods and management thinking available for all businesses wanting to acheive optimal results with their investments.
 
 We offer a series of solutions to solve everyday needs through to helping business plan, execute and deliver transformative technology results throughout the organisation.
 
