@@ -5,7 +5,7 @@
 <section id="contact"> 
   <div class="row contact-form">
     <div class="col-12 col-lg-4 section-heading">
-      <h2>{{ with $data.contact_title }}{{ . | markdownify }}{{ end }}</h2>
+      <a id="contact"><h2>{{ with $data.contact_title }}{{ . | markdownify }}{{ end }}</h2></a>
       {{ with $data.contact_subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
     </div>
     <div class="col-12 col-lg-8">

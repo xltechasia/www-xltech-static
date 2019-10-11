@@ -50,6 +50,6 @@
 
 [[main]]
   name = "Contact"
-  url = "/about#contact"
+  url = "#contact"
   weight = 50
 

@@ -45,7 +45,6 @@ slides: ""
 ---
 Your own Domain, unlimited users/email accounts (and aliases), cloud storage, website hosting, address book, and calendaring.
 
-Starting with 100GB of storage. 
+Starting with 100GB of storage.
 
 More information coming soon...
-
