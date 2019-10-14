@@ -45,7 +45,7 @@ slides: ""
 | [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
 | ----- | ----- | ----- | ----- |
 
-From personal use to easily securing and accessing your files from anywhere, for accessible backups, through to professional, reliable and ease of sharing within small teams, to dozens, hundreds or thousands across the globe, our XLCloud solution, built on Nextcloud, is offered in flexible plan so you can start small and move as your needs grow.
+From personal use to easily securing and accessing your files from anywhere, for accessible backups, through to professional, reliable and ease of sharing within small teams, to dozens, hundreds or thousands across the globe, our XLCloud solution, built on Nextcloud, is offered in flexible plans so you can start small and move as your needs grow.
 
 ## Nextcloud - a safe place to keep your data
 

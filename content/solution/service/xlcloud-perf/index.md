@@ -63,7 +63,7 @@ Great for home, SOHO, teams of up to 20 regular users (OT1/25GP), or for distrib
 - Tier 1 systems can be upgraded to Tier 2 at any time
 - All Performa Tier 1 systems include 500GB of storage prepaid
 
-| SKU # | Memory | Processors | Storage (1) | Per Month | XLRestore (2) |
+| SKU # | Memory | Processors | Storage[^1] | Per Month | XLRestore[^2] |
 | ----- | ------:| ----------:| -----------:| ---------:| -------------:|
 | BT1/25ST/11251000 | 1GB RAM | 1 vCPU | 100GB | S$25.00 | S$5. 00 |
 | BT1/25CO/42251000 | 4GB RAM | 2 vCPU | 100GB | S$85.00 | S$17. 00 |
@@ -81,7 +81,7 @@ Ideal for serving small groups to hundress of users.
 - Flexible selection of CPU and RAM configurations.
 - All Performa Tier 2 systems include 1TB of storage prepaid
 
-| SKU # | Memory | Processors | Storage (1) | Per Month | XLRestore (2) |
+| SKU # | Memory | Processors | Storage[^1] | Per Month | XLRestore[^2] |
 | ----- | ------:| ----------:| -----------:| ---------:| -------------:|
 | BT2/50ST/21502000 | 2GB RAM | 1 vCPU | 200GB | S$50.00 | S$10. 00 |
 | BT2/50ST/22602000 | 2GB RAM | 2 vCPU | 200GB | S$60.00 | S$12. 00 |
@@ -100,10 +100,10 @@ These server are suitable when workloads involve more sophisitacated or central 
 ### XLCloud Performa Tier 3 Features
 
 - Change to any other configuration on request within Tiers 2 and 3
-- Dedicated CPUs for improved performance for server side functionality (4)
+- Dedicated CPUs for improved performance for server side functionality[^4]
 - All Performa Tier 3 systems include 2TB of storage prepaid
 
-| SKU # | Memory | Processors | Storage (1) | Per Month | XLRestore (2) |
+| SKU # | Memory | Processors | Storage[^1] | Per Month | XLRestore[^2] |
 | ----- | ------:| ----------:| -----------:| ---------:| -------------:|
 | BT3/50CO/84504000 | 8GB RAM | 4 vCPU | 400GB | S$200.00 | S$40. 00 |
 | BT3/50GP/164504000 | 16GB RAM | 4 vCPU | 400GB | S$270.00 | S$54. 00 |
@@ -114,19 +114,17 @@ These server are suitable when workloads involve more sophisitacated or central 
 
 ## Additional Storage
 
-| SKU # | Info |  Storage (1) | Per Month | XLRestore (3) |
+| SKU # | Info |  Storage[^1] | Per Month | XLRestore[^3] |
 | ----- | ---- |  ----------- | ---------:| -----------:|
 | BTX/ADD-BLK/100 | Per 100GB Assigned top Server | 100GB | S$18.00 | S$4.00 |
 
 Additional Storage is charged on assignment to your server.
-Usage of space is not accounted for, as the space is reserved.
+Usage of space is not accounted for - pricing is based on allocation/availability, as the space is reserved.
 
 | [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
 | ----- | ----- | ----- | ----- |
 
-_Notes:_
-
-1. XLCloud Performa Series utilize Block Storage.
-2. XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.
-3. If the base system has a XLRestore subscription, then all additional storage units consumped will automatically include a XLTRestore subscription.
-4. As general guidance, increased memory will improve overall system performance in typical usage scenarios.
+[^1]: XLCloud Performa Series utilize Block Storage.
+[^2]: XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.
+[^3]: If the base system has a XLRestore subscription, then all additional storage units consumped will automatically include a XLTRestore subscription.
+[^4] As general guidance, increased memory will improve overall system performance in typical usage scenarios.

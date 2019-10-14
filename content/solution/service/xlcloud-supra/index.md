@@ -45,13 +45,13 @@ slides: ""
 | [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
 | ----- | ----- | ----- | ----- |
 
-The Supra Series are focused on storage capacity, with the aim of providing the most storage possible for the lowest cost.
+The Supra Series are focused on performance.
 
-The Supra series is ideal for storing large amounts of data that is primarily created and not frequently modified.
+The Supra series is scenarios where multple file changes and user are attached simultaneously.
 
-All Supra series automatically adjust their storage usage based on your usage patterns - any overage is charged on a month average in 250GB increments - not peak consumed - so no nasty bill shock or permanent commitments to storage you do not need everyday.
+All Supra series storage capacity is fixed, with system upgrades the on;y path to increased storage capacity.
 
-| SKU # | Memory | Processors | Storage (1) | Per Month | XLRestore (2) |
+| SKU # | Memory | Processors | Storage[^1] | Per Month | XLRestore[^2] |
 | ----- | ------:| ----------:| -----------:| ---------:| -------------:|
 | DT1/160ST/8416000 | 8GB RAM | 4 vCPU | 160GB | S$70.00 | S$14. 00 |
 | DT1/160ST/16632000 | 16GB RAM | 6 vCPU | 320GB | S$140.00 | S$28. 00 |
@@ -65,9 +65,5 @@ All Supra series automatically adjust their storage usage based on your usage pa
 | [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
 | ----- | ----- | ----- | ----- |
 
-_Notes:_
-
-1. XLCloud Supra Series utilize Object Storage. Due to encoding and storage requirements, additional overhead is carried, therefore actual storage usage reported by Nextcloud will be 30% to 50% lower than the space consumed. As guidance, each 150GB of file storage reported by Nextcloud, represents approximately 250GB of space on system storage.
-2. XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.
-3. If the base system has a XLRestore subscription, then all additional storage units consumped will automatically include a XLTRestore subscription.
-4. As general guidance, increased memory will improve overall system performance in typical usage scenarios.
+[^1]: XLCloud Supra Series utilize direct attached storage. Space is fixed, with upgrades to the next model (SKU) the only storage expansion path.
+[^2]: XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.
