@@ -45,13 +45,13 @@ slides: ""
 | [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
 | ----- | ----- | ----- | ----- |
 
-# XLCloud Flexi Series
+The XLCloud Flexi Series are focused on providing safe, secure cloud storage capacity at the most economical cost point viable.
 
-The Flexi Series are focused on storage capacity, with the aim of providing the most storage possible for the lowest cost.
+The Flexi series is ideal for storing large amounts of data, media files, and backups.
 
-The Flexi series is ideal for storing large amounts of data that is primarily created and not frequently modified.
+All Flexi series automatically adjust their storage usage based on your usage patterns - any overage is charged on a monthly average - not peak consumed - in 250GB increments. This means no nasty bill shock or permanent commitments to storage you do not need everyday.
 
-All Flexi series automatically adjust their storage usage based on your usage patterns - any overage is charged on a month average in 250GB increments - not peak consumed - so no nasty bill shock or permanent commitments to storage you do not need everyday.
+XLCoud Flexi is offered in three tiers to help ensure you have the optimal solution available to your needs.
 
 ## XLCloud Flexi Tier 1
 
@@ -65,8 +65,8 @@ Great for home, SOHO, teams of up to 20 regular users (OT1/25GP), or for distrib
 - Tier 1 systems can be upgraded to Tier 2 at any time
 - All Flexi Tier 1 systems include 500GB of storage prepaid
 
-| SKU # | Memory | Processors | Storage (1) | Per Month | XLRestore (2) |
-| ----- | ------:| ----------:| -----------:| ---------:| -------------:|
+| SKU # | Memory | Processors | Storage [^1] | Per Month | XLRestore [^2] |
+| ----- | ------:| ----------:| ------------:| ---------:| --------------:|
 | OT1/25ST/11250500 | 1GB RAM | 1 vCPU | 500GB | S$25.00 | S$8.00 |
 | OT1/25CO/42250500 | 4GB RAM | 2 vCPU | 500GB | S$85.00 | S$28.00 |
 | OT1/25GP/82250500 | 8GB RAM | 2 vCPU | 500GB | S$119.00 | S$39.00 |
@@ -83,8 +83,8 @@ Ideal for serving small groups to hundress of users.
 - Flexible selection of CPU and RAM configurations.
 - All Flexi Tier 2 systems include 1TB of storage prepaid
 
-| SKU # | Memory | Processors | Storage (1) | Per Month | XLRestore (2) |
-| ----- | ------:| ----------:| -----------:| ---------:| -------------:|
+| SKU # | Memory | Processors | Storage [^1] | Per Month | XLRestore [^2] |
+| ----- | ------:| ----------:| ------------:| ---------:| --------------:|
 | OT2/50ST/215001000 | 2GB RAM | 1 vCPU | 1000GB | S$51.00 | S$17.00 |
 | OT2/50ST/226001000 | 2GB RAM | 2 vCPU | 1000GB | S$60.00 | S$20.00 |
 | OT2/50ST/428001000 | 4GB RAM | 2 vCPU | 1000GB | S$68.00 | S$22.00 |
@@ -106,11 +106,11 @@ These server are suitable when workloads involve more sophisitacated or central 
 ### XLCloud Flexi Tier 3 Features
 
 - Change to any other configuration on request within Tiers 2 and 3
-- Dedicated CPUs for improved performance for server side functionality (4)
+- Dedicated CPUs for improved performance for server side functionality [^4]
 - All Flexi Tier 3 systems include 2TB of storage prepaid
 
-| SKU # | Memory | Processors | Storage (1) | Per Month | XLRestore (2) |
-| ----- | ------:| ----------:| -----------:| ---------:| -------------:|
+| SKU # | Memory | Processors | Storage [^1] | Per Month | XLRestore [^2] |
+| ----- | ------:| ----------:| ------------:| ---------:| --------------:|
 | OT3/50CO/845002000 | 8GB RAM | 4 vCPU | 2000GB | S$203.00 | S$67.00 |
 | OT3/50GP/1645002000 | 16GB RAM | 4 vCPU | 2000GB | S$271.00 | S$89.00 |
 | OT3/50CO/16810002000 | 16GB RAM | 8 vCPU | 2000GB | S$338.00 | S$112.00 |
@@ -120,9 +120,10 @@ These server are suitable when workloads involve more sophisitacated or central 
 
 ## Additional Storage
 
-| SKU # | Info |  Storage (1) | Per Month | XLRestore (3) |
-| ----- | ---- |  ----------- | ---------:| -----------:|
-| OTX/ADD-OBJ/250 | Per 250GB (whole or in part) | 250GB | S$8.50 | S$8.50 |
+| SKU #         | Info                                          |  Storage [^1] | Per Month | XLRestore [^3] |
+| ------------- | --------------------------------------------- |  ------------ | ---------:| --------------:|
+| OTX/STOBJ/250 | Per 250GB (whole or in part) | 250GB | S$8.50 | S$8.50 |
+| OTX/CACHE/100 | Adds 100GB W/R Cache for improved performance | 100GB | S$25.00 | N/A |
 
 Additional Storage is charged on usage, in 250GB increments, and not pre-paid.
 Storage is calculated based on monthly average, not peak usage.
@@ -132,7 +133,7 @@ Storage is calculated based on monthly average, not peak usage.
 
 _Notes:_
 
-1. XLCloud Flexi Series utilize Object Storage. Due to encoding and storage requirements, additional overhead is carried, therefore actual storage usage reported by Nextcloud will be 30% to 50% lower than the space consumed. As guidance, each 150GB of file storage reported by Nextcloud, represents approximately 250GB of space on system storage.
-2. XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.
-3. If the base system has a XLRestore subscription, then all additional storage units consumped will automatically include a XLTRestore subscription.
-4. As general guidance, increased memory will improve overall system performance in typical usage scenarios.
+[^1]: XLCloud Flexi Series utilize Object Storage. Due to encoding and storage requirements, additional overhead is carried, therefore actual storage usage reported by Nextcloud will be 30% to 50% lower than the space consumed. As guidance, each 150GB of file storage reported by Nextcloud, represents approximately 250GB of space on system storage.
+[^2]: XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.
+[^3]: If the base system has a XLRestore subscription, then all additional storage units consumped will automatically include a XLTRestore subscription.
+[^4]: As general guidance, increased memory will improve overall system performance in typical usage scenarios, unless server-side based processing and functionality added.
