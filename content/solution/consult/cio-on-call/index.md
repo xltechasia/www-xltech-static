@@ -4,7 +4,7 @@ type: project
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "CIO-on-Call"
-summary: "For organisations needing help with strategy, operations, budgets or planning on a short-term or long-term basis."
+summary: "For organizations needing help with strategy, operations, budgets or planning on a short-term or long-term basis."
 authors: []
 featured: true
 tags: [ "Solution", "Consulting" ]

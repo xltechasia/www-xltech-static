@@ -1,8 +1,8 @@
 ---
 type: project
 
-title: Project Revitalise
-summary: Having problems with projects not deliverying? Bogged down in tech instead of business results? We can help
+title: Project Revitalize
+summary: Having problems with projects not delivering? Bogged down in tech instead of business results? We can help
 authors: []
 featured: false
 tags: [ "Solution", "Consulting" ]

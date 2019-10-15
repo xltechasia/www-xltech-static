@@ -42,5 +42,4 @@ slides: ""
 ---
 We can help you establish new project and programs from proposals, central office establishment, RFP/RFQ, planning and skilling needs.
 
-Clients new to technology projects, have had mixed results previously or prefer to ensure expertise review prior to engaging a large contracting firm, we help ensure your interests are prioritised.
-
+Clients new to technology projects, have had mixed results previously or prefer to ensure expertise review prior to engaging a large contracting firm, we help ensure your interests are prioritized.

@@ -4,7 +4,7 @@ type: project
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "CTO-on-Call"
-summary: "For organisations needing help with new technology, systems architecture or digitalisation a short-term or long-term basis."
+summary: "For organizations needing help with new technology, systems architecture or digitalization a short-term or long-term basis."
 authors: []
 featured: true
 tags: [ "Solution", "Consulting" ]
@@ -43,6 +43,6 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
-CTO-on-Call is designed for start-ups and businesses that require a technical oversight or consuling during the formative design and development stages of solutions.
+CTO-on-Call is designed for start-ups and businesses that require a technical oversight or consulting during the formative design and development stages of solutions.
 
 As your CTO-on-Call, XLTech can help you define, resolve and document your project’s architecture, design principles, integration solutions, interface specifications, API, RFP/RFQ process, technology stacks, data models and solution selection.
