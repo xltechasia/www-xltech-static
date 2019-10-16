@@ -50,7 +50,7 @@ git add .
 # Commit changes.
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
-        msg="$*"
+        msg="$msg - $*"
 fi
 git commit -m "$msg"
 
