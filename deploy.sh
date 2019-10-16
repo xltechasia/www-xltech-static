@@ -57,13 +57,21 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
+printf "\033[0;32mDeleting old public build files...\033[0m\n"
+
+mkdir -p ~/git/www-xltech-static/public
+
+if [ -d mkdir -p ~/git/www-xltech-static/public ]; then
+  find -Esd ~/git/www-xltech-static/public -not -iregex ".*\.git.*" -delete
+fi
+
 printf "\033[0;32mDeploying updates to GitHub Pages...\033[0m\n"
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cd public
+cd ~/git/www-xltech-static/public
 
 # Add changes to git.
 git add .
@@ -78,5 +86,5 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-cd ..
+cd ~/git/www-xltech-static
 
