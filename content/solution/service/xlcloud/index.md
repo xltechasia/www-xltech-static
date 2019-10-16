@@ -42,8 +42,7 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ----- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}
 
 From personal use to easily securing and accessing your files from anywhere, for accessible backups, through to professional, reliable and ease of sharing within small teams, to dozens, hundreds or thousands across the globe, our XLCloud solution, built on Nextcloud, is offered in flexible plans so you can start small and move as your needs grow.
 
@@ -55,8 +54,7 @@ XLCloud delivers the reliability, security and power of the open source Nextclou
 
 Enjoy the flexibility of syncing, sharing and accessing your files across all major user platforms. Clients are available for Windows, Mac OS, Linux, Android, iOS and iPadOS, while your data is also accessible through any web browser and through industry standard WebDAV protocols for application native access.
 
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ----- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}
 
 ### Features Include
 
@@ -75,8 +73,7 @@ Enjoy the flexibility of syncing, sharing and accessing your files across all ma
   - No new password to remember
 - Optional 30-day cycle backup, fully encrypted and stored off-site, of all your files with our XLRestore solution
 
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ----- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}
 
 ## Finding the Right Fit
 
@@ -112,5 +109,4 @@ The Supra Series utilize fixed storage, available up to 3.8TB, to maximize throu
 
 Need something special or different for your needs? Don't worry - [contact us today](#contact) - let us see how we can help!
 
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ----- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}

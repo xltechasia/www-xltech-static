@@ -42,8 +42,7 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ----- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}
 
 The Supra Series are focused on performance.
 
@@ -62,8 +61,7 @@ All Supra series storage capacity is fixed, with system upgrades the only path t
 | DT1/160ST/12824256000 | 128GB RAM |    24 vCPU |      2560GB | S$1,120.00 |     S$224. 00 |
 | DT1/160ST/19232384000 | 192GB RAM |    32 vCPU |      3840GB | S$1,680.00 |      S$336.00 |
 
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ----- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}
 
 [^1]: XLCloud Supra Series utilize direct attached storage. Space is fixed, with upgrades to the next model (SKU) the only storage expansion path.
 [^2]: XLRestore is designed primarily as a disaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.

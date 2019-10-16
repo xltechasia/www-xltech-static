@@ -42,8 +42,7 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ----- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}
 
 The XLCloud Flexi Series are focused on providing safe, secure cloud storage capacity at the most economical cost point viable.
 
@@ -128,8 +127,7 @@ These server are suitable when workloads involve more sophisticated or central p
 Additional Storage is charged on usage, in 250GB increments, and not pre-paid.
 Storage is calculated based on monthly average, not peak usage.
 
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ---- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}
 
 [^1]: XLCloud Flexi Series utilize Object Storage. Due to encoding and storage requirements, additional overhead is carried, therefore actual storage usage reported by Nextcloud will be 30% to 50% lower than the space consumed. As guidance, each 150GB of file storage reported by Nextcloud, represents approximately 250GB of space on system storage.
 [^2]: XLRestore is designed primarily as a disaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.

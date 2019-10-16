@@ -42,8 +42,7 @@ url_video: ""
 slides: ""
 # {{< gallery >}}
 ---
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ----- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}
 
 The Performa Series are focused on performance with ease of growth as your storage needs grow.
 
@@ -121,10 +120,9 @@ These server are suitable when workloads involve more sophisticated or central p
 Additional Storage is charged on assignment to your server.
 Usage of space is not accounted for - pricing is based on allocation/availability, as the space is reserved.
 
-| [XLCloud Overview](/solution/service/xlcloud/) | [XLCloud Flexi](/solution/service/xlcloud-flexi/) | [XLCloud Performa](/solution/service/xlcloud-perf/) | [XLCloud Supra](/solution/service/xlcloud-supra/) |
-| ----- | ----- | ----- | ----- |
+{{% xlcloud-menu %}}
 
 [^1]: XLCloud Performa Series utilizes Block Storage.
 [^2]: XLRestore is designed primarily as a disaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.
 [^3]: If the base system has a XLRestore subscription, then all additional storage units consumed will automatically include a XLTRestore subscription.
-[^4] As general guidance, increased memory will improve overall system performance in typical usage scenarios.
+[^4]: As general guidance, increased memory will improve overall system performance in typical usage scenarios.
