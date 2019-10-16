@@ -12,7 +12,9 @@ case $1 in
     ;;
   -p|--publish|-y|--yes*)
     echo -e "\t *** Publishing to Live Website\n"
-    rm no.publish
+    if [ -e no.publish ]; then
+      rm no.publish
+    fi
     touch yes.publish
     shift
     break
@@ -22,10 +24,20 @@ case $1 in
     ;;
   *)                              # Default case: If no more options then break out of the loop.
     echo -e "\t *** NOT Publishing to Live Website - Test/Draft Mode \n"
-    rm yes.publish
+    if [ -e yes.publish ]; then
+      rm yes.publish
+    fi
     touch no.publish
     break
 esac
+
+if [ ! -n "$1" ]; then
+    echo -e "\t *** NOT Publishing to Live Website - Test/Draft Mode \n"
+    if [ -e yes.publish ]; then
+      rm yes.publish
+    fi
+    touch no.publish
+fi
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
