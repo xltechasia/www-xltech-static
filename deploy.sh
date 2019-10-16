@@ -73,6 +73,24 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd ~/git/www-xltech-static/public
 
+case $PUBLISH in
+  YES)
+    echo -e "\t *** Publishing to Live Website\n"
+    if [ -e no.publish ]; then
+      rm no.publish
+    fi
+    touch yes.publish
+    break
+    ;;
+  *)                              # Default case: If no more options then break out of the loop.
+    echo -e "\t *** NOT Publishing to Live Website - Test/Draft Mode \n"
+    if [ -e yes.publish ]; then
+      rm yes.publish
+    fi
+    touch no.publish
+    break
+esac
+
 # Add changes to git.
 git add .
 
