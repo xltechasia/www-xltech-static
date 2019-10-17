@@ -56,22 +56,28 @@ Enjoy the flexibility of syncing, sharing and accessing your files across all ma
 
 {{% xlcloud-menu %}}
 
-### Features Include
+### Features
 
+- Centralized data storage - Always have access to your data via a web browser or Nextcloud application on any device
+- Always Secure - You, and you alone, decide who has access to your data - something traditional cloud storage vendors do not promise
+- Teamwork - Realtime folder sharing and optional integration with online office suites Collabora or OnlyOffice
+- Open Source - XLCloud is built on industry leading open source cloud software by Nextcloud
+- Secure Communications - Available via the Nextcloud App Store, leverage Nextcloud Talk to for fully encrypted and private text, audio and video communications
+- Fully Secured Sharing - Share files, folders, calendars and contacts with other XLCloud users or via public links (optionally password and time limited) from any device
+- Integrated with Email - Available for Thunderbird and Outlook, plugins to automatically replace large attachments with a link
 - Start small and grow as you need to - plans start from S$25 per month with 500GB
 - Unlimited number of users - pay only for the performance and storage you need
-- Share files or folders across your team, organization or outside your organization
-- Options for High Performance, Growth or Flexible storage to suit your needs
+- XLCloud Options for High Performance, Growth or Flexible storage to suit your needs
 - Full Nextcloud Administration control panel access - customize to your needs
   - Add users and install plugin and extensions to suit your requirements
-- Get a personalize server URL (yourname.xlcloud.io) or connect to your own domain (e.g. cloud.yourdomain.com) for a professional look
+- Comes with a personalize server URL (yourname.xlcloud.io) or optionally extend to your own domain (e.g. cloud.yourdomain.com) for a more professional look.
 - Multiple servers can be federated for granular control
   - Separate administration control
   - Still able to share files and folders cross teams and servers
-- Extendable with plugins for versioning/undelete, chat, voice and video conferencing, calendaring and contact/address books
+- Extendable with plugins for versioning/undelete, chat, voice and video conferencing, calendaring and contact/address books - over a 100 applications available to extend your implementation.
 - Options for integrated user sign-in and enrollment with existing security systems
   - No new password to remember
-- Optional 30-day cycle backup, fully encrypted and stored off-site, of all your files with our XLRestore solution
+- XLRestore - Optional 30-day cycle backup of all your files - fully encrypted and stored off-site for increased protection
 
 {{% xlcloud-menu %}}
 
@@ -117,43 +123,45 @@ The following features are common across all XLCloud series and tiers.
 
 | Area           | Function                       | Info                                                                                                                                                         |
 |----------------|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Files          | File Storage                   | Upload, synch, comments, tags, multiple versions, move files via web interface                                                                               |
+| Files          | File Storage                   | Upload, sync, comments, tags, multiple versions, move files via web interface or application                                                                               |
 |                | File Sharing                   | Share via user, email, link, social media sites, password protection and expiration date. Can allow user without an account (just email) to edit a document. |
 |                | Full Text Search               | Yes                                                                                                                                                          |
 |                | Folder Sharing                 | Share via user, email, link, social media sites, password protection and expiration date. Can allow user to view and upload.                                 |
 |                | PDF Viewer                     | Yes                                                                                                                                                          |
 |                | Photo Galleries                | Yes                                                                                                                                                          |
 |                | Document Editing               | Yes - including for Email Users with no Login (via shared link)                                                                                              |
-|                | Activity Tracking for Files    | Yes                                                                                                                                                          |
+|                | Activity Tracking     | Yes                                                                                                                                                          |
 |                | Large File Support             | Yes                                                                                                                                                          |
-|                | Storage Limitation per User    | Yes                                                                                                                                                          |
+|                | Storage Quota per User    | Yes                                                                                                                                                          |
 |                | File Access Control            | Yes                                                                                                                                                          |
 |                | File Locking                   | Yes                                                                                                                                                          |
 |                | Federation                     | Sharing files across Nextcloud servers                                                                                                                       |
 | Clients        | Web Client                     | Accessible though any standard browser inc. FireFox, Chrome, Safari, Opera, IE & Edge                                                                        |
 |                | Desktop Clients                | Windows, Mac, Linux                                                                                                                                          |
-|                | Mobile Clients                 | Google Play Android Nextcloud, Apple AppStore Nextcloud, F-Droid Repository Android client                                                                   |
+|                | Mobile Clients                 | Google Play Android Nextcloud                                                                   |
+|                |                  | Apple AppStore Nextcloud (iOS & iPadOS)                   |
+|                |                  | F-Droid Open Source Repository Android client                                                                   |
 | Apps           | App Store / Marketplace        | Yes - Over 100 apps listed in the Nextcloud app store                                                                                                        |
 |                | Audio/Video Chat               | Yes - Includes push notifications                                                                                                                            |
 |                | Audio/Video Player             | Yes                                                                                                                                                          |
 |                | Bookmarks App                  | Yes                                                                                                                                                          |
 |                | Calendar App                   | Yes                                                                                                                                                          |
 |                | Contacts App                   | Yes                                                                                                                                                          |
-|                | Email                          | Yes - Nextcloud Mail app plus a RainLoop integration app for IMAP access                                                                                                 |
+|                | Email                          | Yes - Nextcloud Mail app plus RainLoop integration app for IMAP access                                                                                                 |
 |                | Notes                          | Yes                                                                                                                                                          |
 |                | Weather                        | Yes                                                                                                                                                          |
-| Security       | Two Factor Authentication      | Multiple methods available, plus enforcement                                                                                                                 |
+| Security       | Two Factor Authentication      | Multiple methods available with enforcement                                                                                                                 |
 |                | Brute Force Protection         | Yes                                                                                                                                                          |
 |                | Rate Limiting                  | Yes                                                                                                                                                          |
-| Other Features | User Groups                    | Yes & User Created groups via Circles app allows your users to create their own groups of users/colleagues/friends                                           |
+| Other Features | User Groups                    | Yes via Circles app which allows users to create their own groups                                            |
 |                | API                            | Yes                                                                                                                                                          |
 |                | Resource Monitoring            | Yes                                                                                                                                                          |
-|                | LibreOffice Online Integration | Yes                                                                                                                                                          |
+|                | Online Office Suites | Yes - Optional integrations available                                                                                                                                                          |
 |                | Third Party Authentication     | Yes                                                                                                                                                          |
 |                | Theme Customization            | Site Icon, Header Logo, Login Background                                                                                                                     |
 |                | Role Based Administration      | Yes                                                                                                                                                          |
 |                | Workflow                       | Yes                                                                                                                                                          |
-|                | Accessibility                  | WCAG 2.0 AA and AAA standard compliance, Keyboard/screen reader support, Dyslexia-friendly font                                                              |
+|                | Accessibility                  | WCAG 2.0 AA and AAA standard compliance, Keyboard/screen reader support                    |
 |                | Translations                   | 33 languages available                                                                                                                                       |
 
 {{% xlcloud-menu %}}
