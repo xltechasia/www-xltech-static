@@ -121,47 +121,47 @@ Need something special or different for your needs? Don't worry - [contact us to
 
 The following features are common across all XLCloud series and tiers.
 
-| Area           | Function                       | Info                                                                                                                                                         |
-|----------------|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Files          | File Storage                   | Upload, sync, comments, tags, multiple versions, move files via web interface or application                                                                               |
-|                | File Sharing                   | Share via user, email, link, social media sites, password protection and expiration date. Can allow user without an account (just email) to edit a document. |
-|                | Full Text Search               | Yes                                                                                                                                                          |
-|                | Folder Sharing                 | Share via user, email, link, social media sites, password protection and expiration date. Can allow user to view and upload.                                 |
-|                | PDF Viewer                     | Yes                                                                                                                                                          |
-|                | Photo Galleries                | Yes                                                                                                                                                          |
-|                | Document Editing               | Yes - including for Email Users with no Login (via shared link)                                                                                              |
-|                | Activity Tracking     | Yes                                                                                                                                                          |
-|                | Large File Support             | Yes                                                                                                                                                          |
-|                | Storage Quota per User    | Yes                                                                                                                                                          |
-|                | File Access Control            | Yes                                                                                                                                                          |
-|                | File Locking                   | Yes                                                                                                                                                          |
-|                | Federation                     | Sharing files across Nextcloud servers                                                                                                                       |
-| Clients        | Web Client                     | Accessible though any standard browser inc. FireFox, Chrome, Safari, Opera, IE & Edge                                                                        |
-|                | Desktop Clients                | Windows, Mac, Linux                                                                                                                                          |
-|                | Mobile Clients                 | Google Play Android Nextcloud                                                                   |
-|                |                  | Apple AppStore Nextcloud (iOS & iPadOS)                   |
-|                |                  | F-Droid Open Source Repository Android client                                                                   |
-| Apps           | App Store / Marketplace        | Yes - Over 100 apps listed in the Nextcloud app store                                                                                                        |
-|                | Audio/Video Chat               | Yes - Includes push notifications                                                                                                                            |
-|                | Audio/Video Player             | Yes                                                                                                                                                          |
-|                | Bookmarks App                  | Yes                                                                                                                                                          |
-|                | Calendar App                   | Yes                                                                                                                                                          |
-|                | Contacts App                   | Yes                                                                                                                                                          |
-|                | Email                          | Yes - Nextcloud Mail app plus RainLoop integration app for IMAP access                                                                                                 |
-|                | Notes                          | Yes                                                                                                                                                          |
-|                | Weather                        | Yes                                                                                                                                                          |
-| Security       | Two Factor Authentication      | Multiple methods available with enforcement                                                                                                                 |
-|                | Brute Force Protection         | Yes                                                                                                                                                          |
-|                | Rate Limiting                  | Yes                                                                                                                                                          |
-| Other Features | User Groups                    | Yes via Circles app which allows users to create their own groups                                            |
-|                | API                            | Yes                                                                                                                                                          |
-|                | Resource Monitoring            | Yes                                                                                                                                                          |
-|                | Online Office Suites | Yes - Optional integrations available                                                                                                                                                          |
-|                | Third Party Authentication     | Yes                                                                                                                                                          |
-|                | Theme Customization            | Site Icon, Header Logo, Login Background                                                                                                                     |
-|                | Role Based Administration      | Yes                                                                                                                                                          |
-|                | Workflow                       | Yes                                                                                                                                                          |
-|                | Accessibility                  | WCAG 2.0 AA and AAA standard compliance, Keyboard/screen reader support                    |
-|                | Translations                   | 33 languages available                                                                                                                                       |
+| Area           | Function                   | Info                                                                                                                                                         |
+|----------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Files          | File Storage               | Upload, sync, comments, tags, multiple versions, move files via web interface or application                                                                 |
+|                | File Sharing               | Share via user, email, link, social media sites, password protection and expiration date. Can allow user without an account (just email) to edit a document. |
+|                | Full Text Search           | Yes                                                                                                                                                          |
+|                | Folder Sharing             | Share via user, email, link, social media sites, password protection and expiration date. Can allow user to view and upload.                                 |
+|                | PDF Viewer                 | Yes                                                                                                                                                          |
+|                | Photo Galleries            | Yes                                                                                                                                                          |
+|                | Document Editing           | Yes - including for Email Users with no Login (via shared link)                                                                                              |
+|                | Activity Tracking          | Yes                                                                                                                                                          |
+|                | Large File Support         | Yes                                                                                                                                                          |
+|                | Storage Quota per User     | Yes                                                                                                                                                          |
+|                | File Access Control        | Yes                                                                                                                                                          |
+|                | File Locking               | Yes                                                                                                                                                          |
+|                | Federation                 | Sharing files across Nextcloud servers                                                                                                                       |
+| Clients        | Web Client                 | Accessible though any standard browser inc. FireFox, Chrome, Safari, Opera, IE & Edge                                                                        |
+|                | Desktop Clients            | Windows, Mac, Linux                                                                                                                                          |
+|                | Mobile Clients             | Google Play Android Nextcloud                                                                                                                                |
+|                |                            | Apple AppStore Nextcloud (iOS & iPadOS)                                                                                                                      |
+|                |                            | F-Droid Open Source Repository Android client                                                                                                                |
+| Apps           | App Store / Marketplace    | Yes - Over 100 apps listed in the Nextcloud app store                                                                                                        |
+|                | Audio/Video Chat           | Yes - Includes push notifications                                                                                                                            |
+|                | Audio/Video Player         | Yes                                                                                                                                                          |
+|                | Bookmarks App              | Yes                                                                                                                                                          |
+|                | Calendar App               | Yes                                                                                                                                                          |
+|                | Contacts App               | Yes                                                                                                                                                          |
+|                | Email                      | Yes - Nextcloud Mail app plus RainLoop integration app for IMAP access                                                                                       |
+|                | Notes                      | Yes                                                                                                                                                          |
+|                | Weather                    | Yes                                                                                                                                                          |
+| Security       | Two Factor Authentication  | Multiple methods available with enforcement                                                                                                                  |
+|                | Brute Force Protection     | Yes                                                                                                                                                          |
+|                | Rate Limiting              | Yes                                                                                                                                                          |
+| Other Features | User Groups                | Yes via Circles app which allows users to create their own groups                                                                                            |
+|                | API                        | Yes                                                                                                                                                          |
+|                | Resource Monitoring        | Yes                                                                                                                                                          |
+|                | Online Office Suites       | Yes - Optional integrations available                                                                                                                        |
+|                | Third Party Authentication | Yes                                                                                                                                                          |
+|                | Theme Customization        | Site Icon, Header Logo, Login Background                                                                                                                     |
+|                | Role Based Administration  | Yes                                                                                                                                                          |
+|                | Workflow                   | Yes                                                                                                                                                          |
+|                | Accessibility              | WCAG 2.0 AA and AAA standard compliance, Keyboard/screen reader support                                                                                      |
+|                | Translations               | 33 languages available                                                                                                                                       |
 
 {{% xlcloud-menu %}}
