@@ -27,11 +27,11 @@
   url = "/services"
   weight = 20
 
-[[main]]
-  parent = "solutions"
-  name = "Products"
-  url = "/products"
-  weight = 30
+#[[main]]
+#  parent = "solutions"
+#  name = "Products"
+#  url = "/products"
+#  weight = 30
 
 [[main]]
   name = "Posts"
