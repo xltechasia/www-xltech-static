@@ -26,7 +26,7 @@ esac
 
 case $PUBLISH in
   YES)
-    echo -e "\t *** Publishing to Live Website\n"
+    printf "\t *** Publishing to Live Website\n"
     if [ -e no.publish ]; then
       rm no.publish
     fi
@@ -34,7 +34,7 @@ case $PUBLISH in
     break
     ;;
   *)                              # Default case: If no more options then break out of the loop.
-    echo -e "\t *** NOT Publishing to Live Website - Test/Draft Mode \n"
+    printf "\t *** NOT Publishing to Live Website - Test/Draft Mode \n"
     if [ -e yes.publish ]; then
       rm yes.publish
     fi
@@ -61,7 +61,7 @@ printf "\033[0;32mDeleting old public build files...\033[0m\n"
 
 mkdir -p ~/git/www-xltech-static/public
 
-if [ -d mkdir -p ~/git/www-xltech-static/public ]; then
+if [ -d ~/git/www-xltech-static/public ]; then
   find -Esd ~/git/www-xltech-static/public -not -iregex ".*\.git.*" -delete
 fi
 
@@ -75,7 +75,7 @@ cd ~/git/www-xltech-static/public
 
 case $PUBLISH in
   YES)
-    echo -e "\t *** Publishing to Live Website\n"
+    printf "\t *** Publishing to Live Website\n"
     if [ -e no.publish ]; then
       rm no.publish
     fi
@@ -83,7 +83,7 @@ case $PUBLISH in
     break
     ;;
   *)                              # Default case: If no more options then break out of the loop.
-    echo -e "\t *** NOT Publishing to Live Website - Test/Draft Mode \n"
+    printf "\t *** NOT Publishing to Live Website - Test/Draft Mode \n"
     if [ -e yes.publish ]; then
       rm yes.publish
     fi
