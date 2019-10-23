@@ -3,7 +3,7 @@
 # If a command fails then the deploy stops
 set -e
 
-cd ~/git/www-xltech-static
+cd $HOME/git/www-xltech-static
 
 PUBLISH="NO"
 
@@ -59,10 +59,10 @@ git push origin master
 
 printf "\033[0;32mDeleting old public build files...\033[0m\n"
 
-mkdir -p ~/git/www-xltech-static/public
+mkdir -p $HOME/git/www-xltech-static/public
 
-if [ -d ~/git/www-xltech-static/public ]; then
-  find -Esd ~/git/www-xltech-static/public -not -iregex ".*\.git.*" -delete
+if [ -d $HOME/git/www-xltech-static/public ]; then
+  find -Esd $HOME/git/www-xltech-static/public -not -iregex ".*\.git.*" -delete
 fi
 
 printf "\033[0;32mDeploying updates to GitHub Pages...\033[0m\n"
@@ -71,7 +71,7 @@ printf "\033[0;32mDeploying updates to GitHub Pages...\033[0m\n"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cd ~/git/www-xltech-static/public
+cd $HOME/git/www-xltech-static/public
 
 case $PUBLISH in
   YES)
@@ -104,5 +104,5 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-cd ~/git/www-xltech-static
+cd $HOME/git/www-xltech-static
 
