@@ -23,6 +23,11 @@ case $1 in
     shift
     break
     ;;
+  *)
+    PUBLISH="NO"
+    shift
+    break
+    ;;
 esac
 
 case $PUBLISH in
@@ -63,7 +68,9 @@ printf "\033[0;32mDeleting old public build files...\033[0m\n"
 mkdir -p $GITROOT/public
 
 if [ -d $GITROOT/public ]; then
-  find -Esd $GITROOT/public -not -iregex ".*\.git.*" -delete
+  cd $GITROOT/public
+  find -Esd . -not -iregex ".*\.git.*" -delete
+  cd $GITROOT
 fi
 
 printf "\033[0;32mDeploying updates to GitHub Pages...\033[0m\n"
