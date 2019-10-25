@@ -39,17 +39,54 @@
   weight = 20
 
 [[main]]
+  identifier = "kb"
   name = "Knowledgebase"
   url = "/docs"
   weight = 30
 
 [[main]]
+  identifier = "opl"
+  name = "Open Practice Library"
+  url = "/opl"
+  weight = 40
+
+[[main]]
+  name = "Overview"
+  parent = "opl"
+  url = "/opl"
+  weight = 1
+
+[[main]]
+  name = "Persepectives"
+  parent = "opl"
+  url = "/opl/perspective"
+  weight = 10
+
+[[main]]
+  name = "Practice"
+  parent = "opl"
+  url = "/opl/practice"
+  weight = 20
+
+[[main]]
+  name = "Contributing"
+  parent = "opl"
+  url = "/opl/contributing"
+  weight = 30
+
+[[main]]
+  name = "About"
+  parent = "opl"
+  url = "/opl/about.html"
+  weight = 40
+
+[[main]]
   name = "About"
   url = "/about"
-  weight = 40
+  weight = 90
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 99
 
