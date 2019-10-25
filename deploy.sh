@@ -15,18 +15,14 @@ case $1 in
     ;;
   -p|--publish|-y|--yes|-l|--live)
     PUBLISH="YES"
-    shift
     break
     ;;
   -np|--nopublish|--no-publish|-d|--draft|--no|-t|--test)
     PUBLISH="NO"
-    shift
     break
     ;;
   *)
     PUBLISH="NO"
-    shift
-    break
     ;;
 esac
 
@@ -36,7 +32,11 @@ case $PUBLISH in
     if [ -e no.publish ]; then
       rm no.publish
     fi
+    if [ -e content/no.publish ]; then
+      rm content/no.publish
+    fi
     touch yes.publish
+    touch content/yes.publish
     break
     ;;
   *)                              # Default case: If no more options then break out of the loop.
@@ -44,7 +44,11 @@ case $PUBLISH in
     if [ -e yes.publish ]; then
       rm yes.publish
     fi
+    if [ -e content/yes.publish ]; then
+      rm content/yes.publish
+    fi
     touch no.publish
+    touch content/no.publish
     break
 esac
 
@@ -96,7 +100,7 @@ case $PUBLISH in
       rm yes.publish
     fi
     touch no.publish
-    break
+    ;;
 esac
 
 # Add changes to git.
