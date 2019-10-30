@@ -60,7 +60,7 @@ Great for home, SOHO, teams of up to 20 regular users (BT1/25GP), or for distrib
 
 - Change to any other configuration on request within the Tier
 - Tier 1 systems can be upgraded to Tier 2 at any time
-- All Performa Tier 1 systems include 500GB of storage prepaid
+- All Performa Tier 1 systems include 100GB of storage prepaid
 
 | SKU #             |  Memory | Processors | Storage[^1] | Per Month | XLRestore[^2] |
 |-------------------|--------:|-----------:|------------:|----------:|--------------:|
@@ -78,7 +78,7 @@ Ideal for serving small groups to hundreds of users.
 
 - Change to any other configuration on request within Tiers 2 and 3
 - Flexible selection of CPU and RAM configurations.
-- All Performa Tier 2 systems include 1TB of storage prepaid
+- All Performa Tier 2 systems include 200GB of storage prepaid
 
 | SKU #                |   Memory | Processors | Storage[^1] | Per Month | XLRestore[^2] |
 |----------------------|---------:|-----------:|------------:|----------:|--------------:|
@@ -100,7 +100,7 @@ These server are suitable when workloads involve more sophisticated or central p
 
 - Change to any other configuration on request within Tiers 2 and 3
 - Dedicated CPUs for improved performance for server side functionality[^4]
-- All Performa Tier 3 systems include 2TB of storage prepaid
+- All Performa Tier 3 systems include 400GB of storage prepaid
 
 | SKU #                |   Memory | Processors | Storage[^1] | Per Month | XLRestore[^2] |
 |----------------------|---------:|-----------:|------------:|----------:|--------------:|
