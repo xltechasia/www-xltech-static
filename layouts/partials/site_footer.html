@@ -1,7 +1,8 @@
 <footer class="site_footer">
 
   {{ partial "contact_footer.html" . }}
-
+  {{ partial "linkedin_insight_tag.html" . }}
+  
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
