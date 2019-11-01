@@ -73,7 +73,11 @@ mkdir -p $GITROOT/public
 
 if [ -d $GITROOT/public ]; then
   cd $GITROOT/public
-  find -Esd . -not -iregex ".*\.git.*" -delete
+  if [[ " $(uname -a) " != *"Linux"* ]]; then # Assume MacOS/BSD
+    find -Esd . -not -iregex ".*\.git.*" -delete
+  else
+    find . -not -iregex ".*\.git.*" -delete
+  fi
   cd $GITROOT
 fi
 
